@@ -1,0 +1,3 @@
+# this cancels out the compiled .class and only commits source code to github #
+*.class
+
